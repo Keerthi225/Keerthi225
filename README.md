@@ -1,8 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://keerthi225.io)
 <h1 align="center">Hi 👋, I'm Keerthi</h1>
 <h3 align="center">A passionate Business|| User Operations Manager || Social Media & Marketing Manager developer from India</h3>
-(img align="right" alt="Coding" width="400" src=https:https:https://s3-prod.adage.com/s3fs-public/styles/width_660/public/aa_indtvpivot2022_leadimg_3x2.png
-
+(img align="right" alt="Coding" width="400" src="https://videohive.net/item/binary-code-tunnel/20592855
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keerthi225&label=Profile%20views&color=0e75b6&style=flat" alt="keerthi225" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keerthi225" alt="keerthi225" /></a> </p>
